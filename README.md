@@ -1,1 +1,1 @@
-# aoc-2024-python
+# All my aoc
